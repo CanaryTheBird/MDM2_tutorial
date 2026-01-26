@@ -1,3 +1,3 @@
 #This is a comment
 
-print('Hola soy Dora')
+print('Did you know Dora is a pedo, she was on the island')
